@@ -10,13 +10,6 @@
     min-height:400px;
 }
 
-.row-xyz {
-    margin:0px auto;
-    padding: 35px 0px 35px 0px;
-    border-bottom: 1px ridge;
-    min-height:400px;
-}
-
 .footer{
     background-color: #D1C4E9;
     margin:0px auto;
@@ -34,4 +27,13 @@ address{
     font-size:80%;
     margin:0px;
     color:#0f0f0f;
+}
+
+body{
+    padding:50px 0px 0px 0px;
+    z-index:0;
+}
+
+.navbar-dark {
+     background-color: #512DA8;
 }
